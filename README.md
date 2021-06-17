@@ -1,4 +1,4 @@
-## Task 3. Wildlife от [RSS School](https://rs.school/)
+## Task 2. Wildlife от [RSS School](https://rs.school/)
 
 <img src="./img/wildlife.jpg">
 
